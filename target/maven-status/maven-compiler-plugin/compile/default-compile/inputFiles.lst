@@ -1,0 +1,15 @@
+/home/prashant/IdeaProjects/equation-processor-mvn/src/main/java/com/demo/equationprocessor/readers/ConsoleReader.java
+/home/prashant/IdeaProjects/equation-processor-mvn/src/main/java/com/demo/equationprocessor/Main.java
+/home/prashant/IdeaProjects/equation-processor-mvn/src/main/java/com/demo/equationprocessor/entities/Multiply.java
+/home/prashant/IdeaProjects/equation-processor-mvn/src/main/java/com/demo/equationprocessor/entities/Operation.java
+/home/prashant/IdeaProjects/equation-processor-mvn/src/main/java/com/demo/equationprocessor/processor/EquationProcessor.java
+/home/prashant/IdeaProjects/equation-processor-mvn/src/main/java/com/demo/equationprocessor/operationmanager/OperationMediator.java
+/home/prashant/IdeaProjects/equation-processor-mvn/src/main/java/com/demo/equationprocessor/readers/FakeReader.java
+/home/prashant/IdeaProjects/equation-processor-mvn/src/main/java/com/demo/equationprocessor/exceptions/DuplicateSymbolsException.java
+/home/prashant/IdeaProjects/equation-processor-mvn/src/main/java/com/demo/equationprocessor/operationmanager/Mediator.java
+/home/prashant/IdeaProjects/equation-processor-mvn/src/main/java/com/demo/equationprocessor/entities/Addition.java
+/home/prashant/IdeaProjects/equation-processor-mvn/src/main/java/com/demo/equationprocessor/readers/Reader.java
+/home/prashant/IdeaProjects/equation-processor-mvn/src/main/java/com/demo/equationprocessor/utils/Utils.java
+/home/prashant/IdeaProjects/equation-processor-mvn/src/main/java/com/demo/equationprocessor/entities/Division.java
+/home/prashant/IdeaProjects/equation-processor-mvn/src/main/java/com/demo/equationprocessor/processor/Processor.java
+/home/prashant/IdeaProjects/equation-processor-mvn/src/main/java/com/demo/equationprocessor/exceptions/InvalidUserInputException.java
